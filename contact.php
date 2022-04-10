@@ -100,7 +100,8 @@
       <div class="row">
         <div class="col-md-6 px-0">
           <div class="form_container">
-            <form action="">
+            <form action="admin/handler/contact.php" method="POST" >
+
               <div class="form-row">
                 <div class="form-group col">
                   <input type="text" class="form-control" placeholder="Your Name" />
